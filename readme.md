@@ -1,4 +1,4 @@
-# Challenge-Wide coverage location
+# Challenge-Wide-coverage-location
  
 Challenge done in the CSS module of the DevClub classes.
 
