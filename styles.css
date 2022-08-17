@@ -75,3 +75,25 @@ p {
     letter-spacing: 1px;
     color: #6FBF44;
 }
+
+@media screen and (max-width: 1300px) {
+    .link-menu {
+    display: none;
+    }
+    
+    .button-Signup {
+    margin: 4px 1px 0px 460px;
+    }
+    
+    /*inversão da imagem com o texto (img <=> section)*/
+    section {
+    text-align: center;
+    position: relative;
+    top: -900px;    
+    }
+    
+    img {
+    text-align: center;
+    margin: 490px 39px -36px 39px;    
+    }
+}
