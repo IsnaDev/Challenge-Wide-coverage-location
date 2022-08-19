@@ -3,8 +3,9 @@
 Challenge done in the CSS module of the DevClub classes.
 
 <img src="./assets/wide-coverage-home.png" alt="image1"> <br>
+<img src="./assets/print-cell.png" alt="image1"> <br>
 
-> Project done in the CSS module of DevClub classes, using only HTML and CSS technologies.
+> Responsive project done in the CSS module of DevClub classes, using only HTML and CSS technologies.
 
 
 ## 🤝👩🏻 Collaborator
